@@ -1,0 +1,19 @@
+Sus datos son:
+
+   Nombre completo: f
+Su domicilio es:
+   Calle: f
+   Manzana: f
+   Lote: f
+   Super Manzana: f
+   Municipio: f
+   Estado: f
+   Codigo Postal: f
+Otros datos:
+   Clave de elector: f
+   CURP: f
+   Fecha de nacimiento: f
+   Registro: f
+   Seccion: f
+   Vigencia: f
+   Sexo: f
